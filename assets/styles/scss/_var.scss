@@ -1,0 +1,18 @@
+/* Font */
+
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:400,700&display=swap');
+
+$font-default: 'Nunito Sans', sans-serif;
+
+
+/* Palette */
+
+$color-green: #11977d;
+$color-gray: #363636;
+$color-light-grey: #7a7a7a;
+
+
+/* Mixin Responsive */
+@mixin for-desktop {
+  @media (min-width: 768px) { @content; }
+}

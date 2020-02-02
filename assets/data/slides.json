@@ -1,0 +1,17 @@
+[
+  {
+    "id": 0,
+    "img": "assets/images/hero/image-big.png",
+    "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat iure asperiores."
+  },
+  {
+    "id": 1,
+    "img": "assets/images/hero/image-big2.png",
+    "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat iure asperiores obcaecati omnis maiores eaque."
+  },
+  {
+    "id": 2,
+    "img": "assets/images/hero/image-big3.jpg",
+    "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  }
+]
