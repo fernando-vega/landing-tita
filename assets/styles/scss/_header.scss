@@ -41,7 +41,7 @@
         transition: max-height .3s;
 
         &::before {
-          background-color: #11977d;
+          background-color: $primary-color;
           bottom: 0;
           border-radius: 3px;
           content: '';
@@ -90,7 +90,7 @@
     z-index: 999;
 
     span {
-      background-color: #11977d;
+      background-color: $primary-color;
       display: block;
       height: 4px;
       position: absolute;
@@ -124,8 +124,8 @@
       ul {
         li {
           a {
-            border-bottom: 1px solid #11977d;
-            color: #7a7a7a;
+            border-bottom: 1px solid $primary-color;
+            color: $color-light-grey;
             margin: auto;
             width: 80%;
 
@@ -139,7 +139,7 @@
 
     #toggle-menu {
       span {
-        background-color: #363636;
+        background-color: $color-gray;
       }
 
       span.top {
@@ -182,7 +182,7 @@
         li {
           a {
             padding: 5px 15px;
-            color: #7a7a7a;
+            color: $color-light-grey;
           }
         }
       }
